@@ -11,5 +11,5 @@ on the internet say that a few hours of trial and error can save whole minutes o
 With that small joke I'll leave you. Visit olafur.net if you're interested in my outdated portfolio
 page, otherwise feel free to contact me in case of some questions.
 
-Thanks for visiting.\n
+Thanks for visiting.\
 olafur-palsson
