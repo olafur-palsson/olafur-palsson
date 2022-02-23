@@ -12,4 +12,5 @@ With that small joke I'll leave you. Visit olafur.net if you're interested in my
 page, otherwise feel free to contact me in case of some questions.
 
 Thanks for visiting.
-olafur-palsson
+
+- olafur-palsson
