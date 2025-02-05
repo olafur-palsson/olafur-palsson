@@ -11,7 +11,6 @@ on the internet say that a few hours of trial and error can save whole minutes o
 With that small joke I'll leave you. 
 
 Visit
-* [olafur.net](olafur.net) if you're interested in my outdated portfolio.
 * [My StackOverflow](https://stackoverflow.com/users/9225733/caveman) for my SO profile.
 * [My Medium blog](https://olafur-palsson.medium.com/) to see a couple of articles I've written as a hobby.
 
